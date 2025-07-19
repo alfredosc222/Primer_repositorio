@@ -1,0 +1,8 @@
+fredapi
+numpy
+pandas
+plotly
+Requests
+statsmodels
+streamlit
+streamlit_option_menu
